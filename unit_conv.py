@@ -8,7 +8,7 @@ while True:
 
     print("{0} km is {1} miles".format(km, miles))
 
-    user_convert_again = input("Would you like to do another conversion (y/n)")
-    if user_convert_again != "y":
+    user_try_again = input("Would you like to do another conversion (y/n)")
+    if user_try_again != "y":
         print("By,by")
         break

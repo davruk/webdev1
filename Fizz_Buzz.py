@@ -12,4 +12,3 @@ for num in range(1, end + 1):
         print("buzz")
     else:
         print(num)
-
